@@ -1,0 +1,7 @@
+{
+  "name": "TradeMind - Advanced Trading Journal",
+  "description": "A comprehensive trading journal and analytics platform featuring trade logging, psychology tracking, mistake analysis, risk management, and administrative payment verification powered by Supabase.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
